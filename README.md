@@ -1,5 +1,4 @@
 # FBXFinder
-FindFBX in selescted gameobject
+FBXを探すやつです。
 
-SelectObject, Click FindFBX.
-Select All FbxItems.
+右クリックしてFindFBXでそのオブジェクトのFBXを全選択します。
